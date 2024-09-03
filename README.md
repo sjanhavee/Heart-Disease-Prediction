@@ -21,7 +21,7 @@ Getting Started:
 
 1. Clone the Repository:
 
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/sjanhavee/Heart-Disease-Prediction.git
 
 2. Install Dependencies: Ensure you have the required Python libraries installed (e.g., pandas, NumPy, scikit-learn, matplotlib). Use a requirements.txt file for easy installation:
 
